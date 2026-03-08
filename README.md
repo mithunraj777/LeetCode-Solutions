@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
