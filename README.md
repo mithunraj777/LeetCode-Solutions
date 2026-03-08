@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
@@ -56,4 +57,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
