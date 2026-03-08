@@ -52,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/mithunraj777/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
