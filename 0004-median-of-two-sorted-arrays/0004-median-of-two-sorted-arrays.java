@@ -1,30 +1,29 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] merged = new int[nums1.length + nums2.length];
-        for (int i = 0; i < nums1.length; i++) {
-            merged[i] = nums1[i];
-        }
-        for (int i = 0; i < nums2.length; i++) {
-            merged[nums1.length + i] = nums2[i];
-        }
-        for(int i=0;i<merged.length;i++){
-            for(int j=i+1;j<merged.length;j++){
-                if(merged[i]>merged[j]){
-                    int temp = merged[i];
-                    merged[i] = merged[j];
-                    merged[j] = temp;
-                }
-            }
-        }
-        int l = merged.length;
-        if(l%2==0){
-            int r = l/2;
-            return (merged[r-1]+merged[r])/2.0;
-        }
-        else{
-            int r = l/2;
-            int median = merged[r];
-            return median;
-        }
+       int n=nums1.length+nums2.length;
+       int[] arr=new int[n];
+       int min;
+       if(nums1.length>nums2.length){
+        min=nums2.length;
+       }
+       else{
+        min=nums1.length;
+       }
+       for(int i=0;i<nums1.length;i++){
+        arr[i]=nums1[i];
+       }
+       int k=0;
+       for(int i=nums1.length;i<n;i++){
+        arr[i]=nums2[k];
+        k++;
+       }
+       Arrays.sort(arr);
+       int m=arr.length;
+       if(m%2==0){
+        return ((arr[m/2]+arr[m/2-1])/2.0);
+       }
+       else{
+        return (arr[m/2]);
+       }
     }
 }
